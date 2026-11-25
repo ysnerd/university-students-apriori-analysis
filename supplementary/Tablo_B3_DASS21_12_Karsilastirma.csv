@@ -1,0 +1,13 @@
+﻿gosterge,alt_olcek,grup_1,n_1,medyan_1,q1_1,q3_1,grup_0,n_0,medyan_0,q1_0,q3_0,U_grup1,rank_biserial,ham_p,bonferroni_p_12,orneklem_N
+Günlük ders çalışma süresi,Depresyon,4 saat veya üzeri,93,10.0,4.0,18.0,1-3 saat,235,10.0,2.0,18.0,10821.5,-0.0097,0.891058447,1.0,328
+Günlük ders çalışma süresi,Anksiyete,4 saat veya üzeri,93,10.0,4.0,18.0,1-3 saat,235,10.0,4.0,14.0,11644.0,0.06557,0.352488925,1.0,328
+Günlük ders çalışma süresi,Stres,4 saat veya üzeri,93,10.0,2.0,18.0,1-3 saat,235,10.0,4.0,16.0,10967.0,0.00361,0.959629636,1.0,328
+Günlük sosyal medya kullanımı,Depresyon,4 saat veya üzeri,104,14.0,6.0,18.0,1-3 saat,224,10.0,2.0,16.0,13491.5,0.15827,0.020477233,0.24572679,328
+Günlük sosyal medya kullanımı,Anksiyete,4 saat veya üzeri,104,10.0,4.0,16.0,1-3 saat,224,10.0,2.0,14.0,12476.0,0.07109,0.297969397,1.0,328
+Günlük sosyal medya kullanımı,Stres,4 saat veya üzeri,104,10.0,6.0,16.0,1-3 saat,224,10.0,2.0,16.0,12070.5,0.03627,0.595760897,1.0,328
+Akademik faaliyetlerden memnuniyet,Depresyon,Evet,218,10.0,2.0,16.0,Hayır,110,13.0,6.0,20.0,9609.0,-0.19858,0.003173956,0.03808747,328
+Akademik faaliyetlerden memnuniyet,Anksiyete,Evet,218,8.0,2.0,14.0,Hayır,110,10.0,6.0,16.0,9798.0,-0.18282,0.006591859,0.079102309,328
+Akademik faaliyetlerden memnuniyet,Stres,Evet,218,8.0,2.0,14.0,Hayır,110,12.0,6.0,17.5,9737.5,-0.18786,0.005264697,0.063176365,328
+Ders dışı etkinliğe katılım,Depresyon,Evet,160,10.0,2.0,16.0,Hayır,168,10.0,4.0,18.0,11840.0,-0.11905,0.061149151,0.733789816,328
+Ders dışı etkinliğe katılım,Anksiyete,Evet,160,8.0,2.0,14.0,Hayır,168,10.0,4.0,16.0,11582.5,-0.13821,0.029676281,0.356115371,328
+Ders dışı etkinliğe katılım,Stres,Evet,160,10.0,2.0,16.0,Hayır,168,12.0,4.0,16.0,12252.5,-0.08836,0.16478153,1.0,328

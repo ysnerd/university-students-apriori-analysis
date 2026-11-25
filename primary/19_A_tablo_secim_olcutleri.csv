@@ -1,0 +1,6 @@
+﻿Tablo,Olcut
+4,Yalnız psikososyal ölçüme ait birliktelikler; DASS içi beklenen yapı ayrıca etiketlenir
+5,Akademik veya sosyal en az bir öncül + psikososyal sonuç; çapraz değişken katkısı ayrıca sınanır
+6,Ailesel/yaşam koşulu en az bir öncül + psikososyal sonuç; nedensel yorum yasak
+Hepsi,"Önceden belirlenen eşikler: destek>=0,15; güven>=0,70; lift>=1,40; kategori yaygınlığı<=%85"
+Hepsi,"Temsilî seçim: lift azalan, destek azalan, aynı sonuç için en fazla iki; tüm kurallar ek dosyada"
